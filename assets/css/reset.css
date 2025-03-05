@@ -1,0 +1,26 @@
+/* Resete CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+   
+}
+
+html,body {
+    height: 100%;
+  
+}
+
+.bg-container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.flex-position {
+    display: flex;
+}
+
+
+/****/

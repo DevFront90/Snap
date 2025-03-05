@@ -1,0 +1,10 @@
+/* cores da página*/
+:root {
+    --color-first:#fafafa;
+    --color-second:#000;
+    --color-third:hsl(236, 13%, 42%);
+    --font-roboto:Roboto;
+    --color-shadow:rgba(0,0,0,0.6);
+    --color-list: rgba(0, 0, 0, 0.26);
+}
+/***/
